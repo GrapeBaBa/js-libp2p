@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.2.19](https://github.com/libp2p/js-libp2p/compare/integration-tests-v1.2.18...integration-tests-v1.2.19) (2026-08-10)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * @libp2p/daemon-client bumped from ^10.0.34 to ^10.0.35
+    * @libp2p/daemon-server bumped from ^9.0.34 to ^9.0.35
+    * @libp2p/interop bumped from ^14.0.34 to ^14.0.35
+    * @libp2p/kad-dht bumped from ^16.4.2 to ^16.4.3
+    * @libp2p/webtransport bumped from ^6.0.34 to ^6.0.35
+
 ## [1.2.18](https://github.com/libp2p/js-libp2p/compare/integration-tests-v1.2.17...integration-tests-v1.2.18) (2026-07-30)
 
 
